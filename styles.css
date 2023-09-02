@@ -1,0 +1,39 @@
+.top {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    width: 800px;
+    color: white;
+}
+
+.container-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-right {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-link-list {
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    color: #E5E7EB
+
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero-big-text {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.hero-text {
+    font-size: 18px;
+    color: #E5E7EB
+}
